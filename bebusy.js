@@ -262,10 +262,10 @@
             "203 Non-Authoritative Information", "204 No Content", "205 Reset Content", "206 Partial Content",
             "207 Multi-Status", "208 Already Reported", "226 IM Used (RFC 3229)", "300 Multiple Choices",
             "301 Moved Permanently", "302 Found", "303 See Other", "304 Not Modified", "305 Use Proxy",
-            "306 Switch Proxy", "307 Temporary Redirect", "308 Permanent Redirect", "prepublish", "postinstall",
-            "install", "rebuildBundles", "linkMans", "linkBins", "linkStuff", "install", "about to build", "addNamed",
-            "lock", "etag", "parsed url", "search", "query", "host", "auth", "slashes", "cache add", "GET", "POST",
-            "trying", "installOne", "tar unpack"
+            "306 Switch Proxy", "307 Temporary Redirect", "308 Permanent Redirect", "418 I'm a teapot",
+            "prepublish", "postinstall", "install", "rebuildBundles", "linkMans", "linkBins", "linkStuff",
+            "install", "about to build", "addNamed", "lock", "etag", "parsed url", "search", "query", "host",
+            "auth", "slashes", "cache add", "GET", "POST", "trying", "installOne", "tar unpack"
         ];
 
         return underscoreMdl.sample(allColors);
